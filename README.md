@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe website that I made with the help of "The Odin Project" for testing purposes and for using Git for the first time. The website is a simple recipe book with a few recipes.
